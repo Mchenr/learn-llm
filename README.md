@@ -11,3 +11,4 @@
 | 03 | [大模型架构](./03-model-architecture/) | Transformer 架构、主流模型分析、架构演进 |
 | 04 | [量化与优化](./04-quantization-and-optimization/) | 模型量化、剪枝、蒸馏等压缩与加速技术 |
 | 05 | [大模型训练基础](./05-training-fundamentals/) | 预训练、微调、对齐训练的完整流程 |
+| 源码 | [重要源码](./source-code/) | 阅读框架源码时保留的关键源码摘录 |
